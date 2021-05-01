@@ -1,1 +1,3 @@
-# doom-fire-algorithm
+# Doom Fire Algorithm
+
+<hgoulart659@gmail.com>
