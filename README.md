@@ -1,3 +1,3 @@
 # Doom Fire Algorithm
 
-The link for you see with your own eyes how it work => !(https://www.google.com/)
+The link for you see with your own eyes how it work
